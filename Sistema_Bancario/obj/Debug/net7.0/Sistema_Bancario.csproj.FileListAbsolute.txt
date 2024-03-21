@@ -1,0 +1,14 @@
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\bin\Debug\net7.0\Sistema_Bancario.exe
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\bin\Debug\net7.0\Sistema_Bancario.deps.json
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\bin\Debug\net7.0\Sistema_Bancario.runtimeconfig.json
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\bin\Debug\net7.0\Sistema_Bancario.dll
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\bin\Debug\net7.0\Sistema_Bancario.pdb
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.AssemblyInfo.cs
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.dll
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\refint\Sistema_Bancario.dll
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.pdb
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\Sistema_Bancario.genruntimeconfig.cache
+C:\Users\55119\Documents\Projetos_Pessoais\Sistema_Bancario\Sistema_Bancario\obj\Debug\net7.0\ref\Sistema_Bancario.dll
