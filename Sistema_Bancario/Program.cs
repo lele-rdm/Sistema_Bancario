@@ -12,5 +12,13 @@ char resp = char.Parse(Console.ReadLine());
 
 if (resp == 's' || resp == 'S')
 {
-    conta = new Conta()
+    Console.WriteLine("Digite o valor do depósito inicial: ");
+    double depositoInicial = double.Parse(Console.ReadLine());
+    conta = new Conta(numero, titular, depositoInicial);
 }
+else
+{
+    conta = new Conta(numero, titular);
+}
+
+Console.WriteLine($"\n--- Dados da conta ---\n{conta}");
