@@ -17,10 +17,10 @@ namespace Sistema_Bancario
         {
             Numero = numero;
             Titular = titular;
-            Saldo = 0;
+            Saldo = 0.0;
         }
 
-        public Conta(int numero, string titular, double depositoInicial)
+        public Conta(int numero, string titular, double depositoInicial) : this (numero, titular)
         {
             CalcularDeposito(depositoInicial);
         }
